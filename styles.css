@@ -1,0 +1,86 @@
+body {
+    margin: 0%;
+    background-color: lavenderblush;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+
+/* Text */
+h1 {
+    margin: 0%;
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    /* 16px = 100% = 1em */
+    color: #66BFBF;
+    margin: 50px auto 0px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 200px ;
+    text-align: left;
+    line-height: 2;
+}
+
+
+/* Rest */
+.top-container {
+    background-color: paleturquoise;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.top-cloud {
+    position: relative;
+    left: 200px;
+    margin-top: 80px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.web-dev {
+    text-decoration: underline;
+}
+
+a {
+    color: #11999E;
+}
+
+.web-dev {
+    font-size: 2rem;
+}
+
+.dumb {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.volleyball {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.program {
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
